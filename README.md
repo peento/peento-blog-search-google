@@ -15,6 +15,16 @@ app.use('blog-search-google');
 ```
 
 
+配置
+====
+
+```JavaScript
+config.search = {
+  name: '当前网站域名'    // 可选
+};
+```
+
+
 授权协议
 ========
 
